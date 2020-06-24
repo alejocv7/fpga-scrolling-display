@@ -1,4 +1,4 @@
-# FPGA-Scrolling-Display
+# FPGA Scrolling Display
 
 ## Skills and tools used
 
