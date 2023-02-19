@@ -9,7 +9,8 @@ This project utilizes an Altera FPGA to implement a scrolling message display sh
 
 ## Screenshots
 <p align="center">
-<img src="images/Controller.PNG" width="300"> <img src="images/datapath.jpg" width="300" height="170"> <img src="images/MycroSysBD.PNG" width="300">
-<img src="images/datapath_table.jpg" width="300"> <img src="images/Simur1.PNG" width="300"> <img src="images/Simur2.PNG" width="300"> 
-<img src="images/Simur3.PNG" width="300"> <img src="images/Simur4.PNG" width="300">
+  <img src="images/MycroSysBD.PNG" width="400"> <img src="images/datapath.jpg" width="400" height="228"><br />
+  <img src="images/Controller.PNG" width="400"> <img src="images/datapath_table.jpg" width="400"><br />
+  <img src="images/Simur1.PNG" width="400"> <img src="images/Simur2.PNG" width="400"><br />
+  <img src="images/Simur3.PNG" width="400"> <img src="images/Simur4.PNG" width="400">
 </p>
